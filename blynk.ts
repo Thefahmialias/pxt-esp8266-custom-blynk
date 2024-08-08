@@ -13,8 +13,8 @@ namespace esp8266 {
     let blynkUpdated = false
 
     // Blynk servers.
-    let blynkServers = ["blynk.cloud", "fra1.blynk.cloud", "lon1.blynk.cloud",
-                        "ny3.blynk.cloud", "sgp1.blynk.cloud", "blr1.blynk.cloud", "iot.serangkota.go.id"]
+    let blynkServers = ["iot.serangkota.go.id", "blynk.cloud", "fra1.blynk.cloud",
+                        "ny3.blynk.cloud", "sgp1.blynk.cloud", "blr1.blynk.cloud"]
 
 
 
